@@ -1,0 +1,65 @@
+SOURCE: ACSM Position Stand - Recovery and Adaptation in Resistance Training - A Comprehensive Review (2022)
+ORGANIZATION: American College of Sports Medicine (ACSM)
+CATEGORY: Strength Training - Recovery
+------------------------------------------------------------
+
+OVERVIEW
+This ACSM position stand synthesizes over 200 peer-reviewed studies on recovery from resistance training, covering the biological mechanisms of muscle adaptation, evidence-based recovery strategies, and the role of individual variation in recovery capacity.
+
+THE BIOLOGY OF RECOVERY AND ADAPTATION
+1. Supercompensation Principle
+ - Training applies a stress that temporarily reduces performance (fatigue/damage phase).
+ - During recovery, the body rebuilds beyond its previous capacity (supercompensation).
+ - The next training session should be timed to hit the supercompensation peak. Train too soon = cumulative fatigue. Train too late = return to baseline.
+ - For beginners: supercompensation window is 48–72 hours for most muscle groups.
+ - For advanced lifters using heavy loads: 72–96 hours for lower body compound movements.
+
+2. Molecular Mechanisms
+ - Muscle protein synthesis (MPS) is elevated for 24–48 hours after a resistance training session.
+ - Combining resistance exercise with adequate protein maximizes MPS response.
+ - Inflammation (necessary for adaptation) peaks at 12–24 hours and resolves by 72 hours with proper nutrition and sleep.
+
+EVIDENCE-BASED RECOVERY MODALITIES — RANKED BY EVIDENCE STRENGTH
+1. Sleep (Strongest Evidence — Grade A)
+ - Non-negotiable. 8+ hours for strength athletes.
+ - Growth hormone secretion during deep sleep is critical for muscle protein synthesis.
+ - Sleep restriction to 5 hours/night for 5 days reduces testosterone by 10–15%.
+
+2. Nutrition Timing (Strong Evidence — Grade A)
+ - Post-workout protein: 20–40 g within 2 hours.
+ - Carbohydrates post-workout: 0.5–1.0 g/kg to replenish glycogen.
+ - Total daily protein: 1.6–2.2 g/kg/day.
+
+3. Active Recovery (Good Evidence — Grade B)
+ - Light aerobic work (cycling, walking, swimming) the day after a heavy session increases blood flow and reduces DOMS without inducing further damage.
+ - Protocol: 20–30 minutes at < 60% VO2max (you can hold a conversation).
+
+4. Cold Water Immersion (Good Evidence — Grade B for Soreness, Caution for Hypertrophy)
+ - CWI effectively reduces DOMS and perceived fatigue.
+ - CAUTION: Chronic CWI after strength training may blunt long-term hypertrophy by suppressing the inflammatory signaling needed for adaptation. Use strategically (high-volume weeks, tournaments) not routinely after every session if hypertrophy is the goal.
+
+5. Foam Rolling/Self-Myofascial Release (Moderate Evidence — Grade C)
+ - Reduces perceived soreness and improves short-term range of motion.
+ - Does not significantly accelerate physiological recovery, but improves movement quality for the next session.
+
+6. Compression Garments (Moderate Evidence — Grade C)
+ - Reduces perceived soreness, especially in legs post-lower body workout.
+ - Best benefit with 12–24 hours of continuous wear after training.
+
+DELOAD SCIENCE
+- A formal deload (50% volume reduction) every 4–8 weeks prevents accumulated fatigue from masking fitness gains.
+- Post-deload performance typically exceeds pre-deload performance (supercompensation at the mesocycle level).
+- Deload does NOT mean no training. Reduce volume, maintain intensity.
+
+INDIVIDUAL VARIATION IN RECOVERY
+- Age: Recovery capacity decreases after ~35. Older athletes may need 72–96 hours between sessions for the same muscle group.
+- Training history: More trained = faster recovery per session, but also slower recovery from true maximum effort.
+- Nutrition status: Caloric deficit significantly extends recovery time. Prioritize adequate energy intake.
+- Stress and sleep: Work, life stress, and poor sleep are the #1 non-training factors slowing recovery.
+
+KEY TAKEAWAYS
+- Sleep 8+ hours nightly — it is irreplaceable.
+- Post-workout protein (20–40 g) within 2 hours maximizes MPS.
+- Use CWI for soreness reduction during heavy training weeks, but avoid routinely if hypertrophy is the goal.
+- Deload every 4–8 weeks. Post-deload performance exceeds pre-deload performance consistently.
+- Individual factors (age, stress, sleep quality) matter as much as the program.

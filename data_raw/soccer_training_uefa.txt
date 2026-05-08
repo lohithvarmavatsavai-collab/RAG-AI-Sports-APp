@@ -1,0 +1,60 @@
+SOURCE: UEFA Football Performance Program - Conditioning Guidelines (2022)
+ORGANIZATION: Union of European Football Associations (UEFA)
+CATEGORY: Soccer - Training
+------------------------------------------------------------
+
+OVERVIEW
+UEFA's coaching and performance program establishes conditioning benchmarks and training structures for amateur and club-level football players. The program emphasizes integrated training — combining physical, technical, and mental components rather than training them in isolation.
+
+PHYSICAL PERFORMANCE BENCHMARKS (Amateur/Intermediate Level)
+- A mid-level amateur player covers 8–10 km per match
+- High-intensity runs account for 1–2 km of that distance
+- Sprint speed targets: 25–28 km/h achievable for recreational players
+
+CONDITIONING COMPONENTS
+1. Aerobic Endurance
+   - Foundation for all soccer actions
+   - Methods: continuous runs at 65–75% HRmax, Yo-Yo Intermittent Recovery Test used for assessment
+   - Recommended: 2 aerobic-focused sessions per week during pre-season
+
+2. Anaerobic Power / High-Intensity Efforts
+   - Soccer involves repeated short bursts (5–15 m)
+   - Training: interval sprints, repeated sprint ability (RSA) drills
+   - RSA protocol: 6–10 x 30m sprints with 30-second recovery
+
+3. Strength and Power
+   - Lower body: squat, single-leg press, hip thrust
+   - Core: planks, rotational strength for kicking and shielding
+   - Upper body: push/pull for physical duels
+
+4. Coordination and Agility
+   - Cone drills, ladder drills, reactive agility with decision trigger (light or sound cue)
+
+TRAINING LOAD MANAGEMENT
+- UEFA recommends monitoring training load using RPE (Rate of Perceived Exertion) scale
+- Beginner: keep weekly load moderate; avoid sudden spikes (>10% week-to-week increase)
+- Intermediate: can sustain higher volume; monitor fatigue signs
+
+INTEGRATED TRAINING SESSION STRUCTURE
+A standard UEFA-aligned session follows this flow:
+1. Warm-up (FIFA 11+ or UEFA equivalent) — 15 min
+2. Technical block — 20 min
+3. Physical conditioning or SSG — 25 min
+4. Tactical game or set piece — 15 min
+5. Cool-down and stretching — 10 min
+
+MENTAL AND TACTICAL COMPONENTS
+- UEFA emphasizes that physical training alone is insufficient
+- Position-specific conditioning (e.g., wingers need more sprint training than central defenders)
+- Decision-making under physical fatigue is a trainable skill
+
+PLAYER DEVELOPMENT FRAMEWORK
+- Beginner stage: Learn basic movement patterns and rules; low-intensity conditioning
+- Intermediate stage: Build aerobic base; introduce structured conditioning
+- Advanced stage: Periodized training, sport-science monitoring
+
+KEY TAKEAWAYS
+- Physical fitness and technical skill develop best together
+- Monitor load and avoid overtraining
+- Use RSA drills to specifically train repeated sprint ability
+- Match demands should guide practice design

@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment and secrets — NEVER COMMIT
+.env
+*.env
+
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Large model files (download separately)
+# faiss_index/ — keep in repo since small (< 1MB)
+# data_raw/ — keep for reproducibility

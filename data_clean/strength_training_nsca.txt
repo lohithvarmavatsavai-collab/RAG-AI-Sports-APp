@@ -1,0 +1,31 @@
+SOURCE: NSCA Essentials of Strength Training and Conditioning - Beginner Programming (2022)
+ORGANIZATION: National Strength and Conditioning Association (NSCA)
+CATEGORY: Strength Training - Training
+------------------------------------------------------------
+
+OVERVIEW
+The NSCA outlines foundational principles for individuals beginning a resistance training program. For beginners, learning proper exercise technique and building a base of muscular endurance and hypertrophy are the primary goals, rather than maximal strength.
+
+EXERCISE SELECTION
+- Prioritize multi-joint (compound) exercises: Squats, deadlifts, bench presses, overhead presses, and rows. These recruit large muscle masses and stimulate greater metabolic and hormonal responses.
+- Single-joint (isolation) exercises (e.g., bicep curls, leg extensions) can be included but should follow compound movements.
+- Order of exercises: Power exercises (if any) -> Core/Compound exercises -> Assistance/Isolation exercises.
+
+TRAINING FREQUENCY
+- Beginners should strength train 2 to 3 days per week on non-consecutive days.
+- Full-body routines are recommended for beginners rather than split routines (e.g., training only chest on one day).
+
+SETS, REPS, AND INTENSITY
+- For hypertrophy and foundational strength: 2-3 sets of 8-12 repetitions per exercise.
+- Intensity: Weights should be approximately 67-80% of the individual's 1-Repetition Maximum (1RM).
+- Rest periods: 30-90 seconds between sets.
+
+PROGRESSIVE OVERLOAD
+- To continue making gains, the demands placed on the muscles must continually increase.
+- The 2-for-2 Rule: If an athlete can perform two or more repetitions over their assigned repetition goal in the last set of an exercise for two consecutive workouts, weight should be added for that exercise in the next training session.
+
+KEY TAKEAWAYS
+- Focus on compound movements (squats, deadlifts, presses).
+- Train 2-3 times per week with full-body workouts.
+- Use 2-3 sets of 8-12 reps with 30-90 seconds rest.
+- Apply the 2-for-2 rule for progressive overload.

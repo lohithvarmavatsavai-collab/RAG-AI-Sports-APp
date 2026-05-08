@@ -1,0 +1,34 @@
+SOURCE: Progressive Overload and Periodization for Beginners (2021)
+ORGANIZATION: American College of Sports Medicine (ACSM)
+CATEGORY: Strength Training - Training
+------------------------------------------------------------
+
+OVERVIEW
+The ACSM provides evidence-based guidelines on how to structure and progress resistance training programs to ensure continued adaptations and prevent plateaus.
+
+PRINCIPLE OF PROGRESSIVE OVERLOAD
+- Progressive overload is the gradual increase of stress placed upon the body during exercise training.
+- Variables to manipulate:
+  1. Resistance (Weight): Increasing the load lifted.
+  2. Volume: Increasing the number of sets or repetitions.
+  3. Frequency: Increasing the number of training sessions per week.
+  4. Rest intervals: Decreasing rest between sets (increases metabolic stress).
+
+PERIODIZATION CONCEPTS
+- Periodization is the systematic planning of athletic or physical training.
+- Linear Periodization (Traditional): Involves gradually increasing intensity (weight) and decreasing volume (reps) over several weeks or months. E.g., moving from sets of 12 reps -> sets of 8 reps -> sets of 5 reps over a 12-week program.
+- Undulating Periodization: Varying intensity and volume within the week (e.g., Monday: 3x12, Wednesday: 4x5, Friday: 3x8). This can be effective but is usually reserved for intermediate/advanced trainees.
+
+BEGINNER RECOMMENDATIONS
+- Beginners should focus on a linear progression model. Add a small amount of weight (e.g., 2.5-5 lbs to upper body lifts, 5-10 lbs to lower body lifts) each week while maintaining the same sets and reps.
+- Focus on movement proficiency before aggressively increasing load. Form breakdown is an indicator that the load is too heavy.
+
+WARM-UP PROTOCOLS
+- 5-10 minutes of light aerobic activity (e.g., rowing, cycling).
+- Dynamic stretching targeting the specific muscles to be worked (e.g., arm circles, walking lunges).
+- 1-2 lighter warm-up sets of the first exercise before moving to the working weight.
+
+KEY TAKEAWAYS
+- Increase weight gradually while maintaining proper form.
+- Use linear periodization for beginners.
+- Always perform a general and specific warm-up before lifting heavy loads.

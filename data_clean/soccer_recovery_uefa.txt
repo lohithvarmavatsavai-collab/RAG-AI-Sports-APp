@@ -1,0 +1,48 @@
+SOURCE: UEFA Champions League - Recovery Science and Match Congestion Protocols (2023)
+ORGANIZATION: Union of European Football Associations (UEFA)
+CATEGORY: Soccer - Recovery
+------------------------------------------------------------
+
+OVERVIEW
+UEFA's research on elite club football reveals that match congestion — playing more than one match per week — is the primary recovery challenge for modern soccer players. This document summarizes UEFA's evidence-based protocols for managing congestion and optimizing recovery, adapted for amateur and club-level athletes.
+
+PHYSIOLOGICAL CONSEQUENCES OF A 90-MINUTE MATCH
+- Muscle glycogen depleted by 40–90% depending on position.
+- 1–3% body mass lost through sweat.
+- Elevated creatine kinase (CK) and myoglobin (indicators of muscle damage) for 24–72 hours post-match.
+- Perception of muscle soreness peaks at 24–48 hours post-match (DOMS).
+- Neuromuscular function (sprint speed, jump height) reduced for 48–72 hours.
+
+THE UEFA RECOVERY TIMELINE
+- 0–30 minutes post-match: Begin refueling. Carbohydrate + protein snack. Start rehydration.
+- 30 minutes – 2 hours: Full recovery meal. Cold water immersion if available.
+- 2–24 hours: Sleep is the primary recovery tool. Target 9 hours.
+- 24–48 hours: Active recovery sessions only. No high-intensity training.
+- 48–72 hours: Light technical work. Gradual reintroduction of physical load.
+- 72+ hours: Return to full training only if wellness markers are positive.
+
+MATCH CONGESTION MANAGEMENT
+- When 2 matches occur within 72 hours: Eliminate all high-intensity training sessions between matches. Prioritize sleep, nutrition, and cold water immersion.
+- When 3 matches occur within 10 days: Reduce training volume by 60% on non-match days. Include at least one complete rest day.
+
+COLD WATER IMMERSION (CWI) PROTOCOLS
+- UEFA-aligned CWI: 10–12 minutes at 10–15°C within 30 minutes of full-time whistle.
+- Contrast bathing (alternating warm/cold): 1 minute cold, 1 minute warm, repeated 4–5 cycles.
+- CWI significantly reduces perceived fatigue and CK levels at 24 and 48 hours.
+
+SLEEP EXTENSION PROTOCOL
+- Napping 20–30 minutes at 2 PM on match days improves alertness by 30% and reaction time.
+- Prioritize sleep in a cool, dark room. Core body temperature must drop to initiate deep sleep.
+- Melatonin (0.5–3 mg) may help players who struggle with post-match adrenaline, but consult a physician.
+
+NUTRITION FOR ACCELERATED RECOVERY
+- 1.2 g/kg carbohydrates in the first 30–60 minutes post-match (prioritize fast-absorbing: white rice, fruit, sports drinks).
+- 25–30 g protein within 2 hours (chicken, eggs, Greek yogurt, or whey).
+- Omega-3 fatty acids (from fish, flaxseed) reduce exercise-induced inflammation.
+- Tart cherry juice (480 mL daily for 4–7 days around congested periods) — shown to reduce muscle soreness in team sport athletes.
+
+KEY TAKEAWAYS
+- Muscle damage and neuromuscular impairment last 48–72 hours after a match.
+- The recovery window starts immediately at full-time — nutrition and CWI matter.
+- Sleep 9+ hours for the two nights following a match.
+- During congested fixture periods, eliminate high-intensity training between games entirely.

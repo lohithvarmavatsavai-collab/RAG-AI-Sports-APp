@@ -1,0 +1,22 @@
+# AI Sports Performance Assistant - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core web app
+streamlit>=1.32.0
+
+# Embeddings
+sentence-transformers>=2.7.0
+
+# Vector store
+faiss-cpu>=1.8.0
+
+# LLM API (Google Gemini - new SDK)
+google-genai>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0

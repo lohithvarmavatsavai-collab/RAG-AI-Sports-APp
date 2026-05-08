@@ -1,0 +1,37 @@
+source_id,title,sport,category,source_type,organization,year,url_or_reference,filename
+S01,FIFA Training Principles for Youth and Amateur Football,Soccer,Training,Official Governing Body,FIFA,2023,https://www.fifa.com/football-development/training,soccer_training_fifa.txt
+S02,UEFA Football Performance Program - Conditioning Guidelines,Soccer,Training,Official Governing Body,UEFA,2022,https://www.uefa.com/insideuefa/football-development/coaches/,soccer_training_uefa.txt
+S03,Pre-match and Match-day Nutrition for Soccer Players,Soccer,Nutrition,Position Stand / Consensus,FIFA Medical Assessment and Research Centre,2022,FIFA F-MARC Nutrition Guidelines,soccer_nutrition_fmarc.txt
+S04,Carbohydrate Intake and Soccer Performance - ISSN Review,Soccer,Nutrition,Review / Position Stand,International Society of Sports Nutrition,2021,ISSN Position Stand: Carbohydrates,soccer_nutrition_issn.txt
+S05,Recovery Strategies for Soccer - Sleep and Active Recovery,Soccer,Recovery,Scientific Review,ACSM,2022,Medicine & Science in Sports & Exercise,soccer_recovery_acsm.txt
+S06,Hydration Strategies for Team Sport Athletes,Soccer,Recovery,Official Guidance,GSSI - Gatorade Sports Science Institute,2021,GSSI Hydration Position,soccer_recovery_hydration.txt
+S07,ITF Physical Training Guide for Tennis,Tennis,Training,Official Governing Body,International Tennis Federation,2023,https://www.itftennis.com/en/growing-the-game/health-and-science/,tennis_training_itf.txt
+S08,USTA High Performance Tennis Conditioning Program,Tennis,Training,Official Governing Body,United States Tennis Association,2022,USTA Player Development Resources,tennis_training_usta.txt
+S09,Nutritional Considerations for Tennis Players,Tennis,Nutrition,Scientific Review,British Journal of Sports Medicine,2021,BJSM Nutrition for Tennis,tennis_nutrition_bjsm.txt
+S10,Fueling for Tennis - Carbohydrate and Fluid Strategies,Tennis,Nutrition,Position Stand,ISSN,2022,ISSN Practical Application for Racquet Sports,tennis_nutrition_issn.txt
+S11,Recovery and Regeneration Practices in Elite Tennis,Tennis,Recovery,Review,Journal of Sports Sciences,2022,JSS Recovery in Tennis Review,tennis_recovery_jss.txt
+S12,Cooling and Hydration Strategies in Hot-weather Tennis,Tennis,Recovery,Official Guidance,ITF Sports Science Committee,2023,ITF Medical Guidelines,tennis_recovery_itf.txt
+S13,FIBA Basketball Athletic Development Program,Basketball,Training,Official Governing Body,FIBA,2023,https://www.fiba.basketball/,basketball_training_fiba.txt
+S14,NBA Academy - Strength and Conditioning for Young Players,Basketball,Training,Official Governing Body,NBA Academy,2022,NBA Academy Training Resources,basketball_training_nba.txt
+S15,Nutritional Strategies for Basketball Performance,Basketball,Nutrition,Scientific Review,Journal of the International Society of Sports Nutrition,2022,JISSN Basketball Nutrition,basketball_nutrition_jissn.txt
+S16,Game-day Hydration and Fueling Protocol for Basketball,Basketball,Nutrition,Position Stand,ACSM,2021,ACSM Fluid Replacement Position Stand,basketball_nutrition_acsm.txt
+S17,Recovery Science in Basketball - Protocols and Best Practices,Basketball,Recovery,Review,Sports Medicine,2022,Sports Med: Basketball Recovery Review,basketball_recovery_sportsmed.txt
+S18,Hydration Monitoring and Recovery for Basketball Players,Basketball,Recovery,Official Guidance,GSSI,2022,GSSI Basketball Hydration,basketball_recovery_gssi.txt
+S19,NSCA Essentials of Strength Training and Conditioning - Beginner Programming,Strength Training,Training,Official Position / Textbook,National Strength and Conditioning Association,2022,NSCA Essentials 4th Edition,strength_training_nsca.txt
+S20,Progressive Overload and Periodization for Beginners,Strength Training,Training,Evidence-Based Review,ACSM,2021,ACSM Resistance Training Guidelines,strength_training_acsm.txt
+S21,Protein Requirements for Strength Athletes - ISSN Position Stand,Strength Training,Nutrition,Position Stand,International Society of Sports Nutrition,2022,ISSN Protein and Exercise Position Stand,strength_nutrition_issn.txt
+S22,Dietary Protein and Muscle Synthesis - NIH Overview,Strength Training,Nutrition,Government / Institutional,National Institutes of Health - Office of Dietary Supplements,2023,https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/,strength_nutrition_nih.txt
+S23,Sleep and Recovery for Strength Athletes - Consensus Review,Strength Training,Recovery,Consensus / Review,NSCA,2022,NSCA Recovery Recommendations,strength_recovery_nsca.txt
+S24,Rest Periods and Deload Strategies in Resistance Training,Strength Training,Recovery,Scientific Review,Journal of Strength and Conditioning Research,2022,JSCR Deload and Recovery Review,strength_recovery_jscr.txt
+S25,FIFA Football Fitness - Periodization and Load Management for Players,Soccer,Training,Official Governing Body,FIFA,2023,FIFA Football Fitness Department,soccer_training_fifa_periodization.txt
+S26,Applied Nutrition for Footballers - Energy Balance and Micronutrients,Soccer,Nutrition,Collaborative Review,FIFA / European Journal of Sport Science,2022,EJSS Applied Nutrition Review,soccer_nutrition_micronutrients.txt
+S27,UEFA Champions League - Recovery Science and Match Congestion Protocols,Soccer,Recovery,Official Governing Body,UEFA,2023,UEFA Performance Research,soccer_recovery_uefa.txt
+S28,ATP/WTA Physical Preparation Standards and Testing Protocols,Tennis,Training,Official Governing Body,ATP / WTA,2023,ATP Performance Department,tennis_training_atp_wta.txt
+S29,Nutritional Periodization and Weight Management for Competitive Tennis,Tennis,Nutrition,Official Guidance,USOPC / USTA High Performance,2022,USOPC Nutrition Guidelines,tennis_nutrition_usopc.txt
+S30,ITF Medical Commission - Injury Prevention Sleep and Long-Term Development,Tennis,Recovery,Official Governing Body,ITF Medical Commission,2023,ITF Medical Commission Publications,tennis_recovery_itf_medical.txt
+S31,NBA Performance Lab - Advanced Load Management and Position-Specific Conditioning,Basketball,Training,Official Governing Body,NBA Performance Lab,2023,NBA G League Performance Science,basketball_training_nba_performance.txt
+S32,NCAA Basketball - Sports Science and Performance Nutrition Guidelines,Basketball,Nutrition,Official Governing Body,NCAA Sport Science Institute,2023,NCAA Sport Science Institute,basketball_nutrition_ncaa.txt
+S33,NBA/NBPA Player Health and Wellness Recovery Science,Basketball,Recovery,Official Governing Body,NBPA / NBA Fitness Advisory,2023,NBA-NBPA CBA Health Annex,basketball_recovery_nbpa.txt
+S34,NSCA JSCR - Evidence-Based Programming for Beginner and Intermediate Lifters,Strength Training,Training,Peer-Reviewed Journal,NSCA / Journal of Strength and Conditioning Research,2023,JSCR Meta-Analysis 2023,strength_training_nsca_jscr.txt
+S35,USDA Dietary Guidelines for Athletes - Protein Quality and Timing,Strength Training,Nutrition,Government / Institutional,USDA / Academy of Nutrition and Dietetics,2023,USDA Dietary Guidelines 2020-2025,strength_nutrition_usda.txt
+S36,ACSM Position Stand - Recovery and Adaptation in Resistance Training,Strength Training,Recovery,Position Stand,American College of Sports Medicine,2022,ACSM Position Stand 2022,strength_recovery_acsm_position.txt

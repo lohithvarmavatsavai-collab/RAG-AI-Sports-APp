@@ -1,0 +1,59 @@
+SOURCE: Applied Nutrition for Footballers - Energy Balance and Micronutrients in Soccer (2022)
+ORGANIZATION: FIFA / European Journal of Sport Science (collaborative review)
+CATEGORY: Soccer - Nutrition
+------------------------------------------------------------
+
+OVERVIEW
+Beyond macronutrients, soccer players have specific micronutrient needs that directly affect energy metabolism, immune function, and recovery. This FIFA-aligned review synthesizes evidence on energy balance, iron, vitamin D, and antioxidants for soccer athletes at all levels.
+
+ENERGY REQUIREMENTS
+- Male soccer players: estimated total daily energy expenditure (TDEE) of 2,800–3,500 kcal/day on training days.
+- Female soccer players: 2,200–2,800 kcal/day on training days.
+- Energy availability (EA) = energy intake minus exercise energy expenditure. EA should be maintained above 30–45 kcal/kg fat-free mass/day.
+- Low energy availability (< 30 kcal/kg FFM/day) causes hormonal disruption, bone loss, increased illness, and impaired recovery. This is more common in female athletes.
+
+CARBOHYDRATE PERIODIZATION
+- High-carbohydrate days: Match days and days of high-intensity training. Target 7–10 g/kg.
+- Moderate-carbohydrate days: Moderate training sessions. Target 5–7 g/kg.
+- Low-carbohydrate days: Rest days or light technical sessions. Target 3–5 g/kg.
+- Carbohydrate periodization (varying CHO based on training load) is evidence-supported for weight management without compromising performance.
+
+KEY MICRONUTRIENTS FOR SOCCER
+1. Iron
+ - Deficiency impairs oxygen transport and causes fatigue.
+ - Risk group: Female players, vegetarian/vegan players.
+ - Dietary sources: Red meat, legumes, fortified cereals, spinach.
+ - Vitamin C enhances non-heme iron absorption; avoid calcium/coffee with iron-rich meals.
+ - Testing: Annual blood test for ferritin recommended for female players.
+
+2. Vitamin D
+ - Critical for bone health, immune function, and muscle function.
+ - Deficiency is common in players who train indoors or live in low-sunlight climates.
+ - Target serum 25(OH)D: > 75 nmol/L.
+ - Sources: Sun exposure (15–30 min/day), oily fish, fortified dairy, supplementation (1,000–2,000 IU/day as needed, physician-guided).
+
+3. Calcium
+ - Essential for bone density and muscle contraction.
+ - Daily target: 1,000–1,300 mg/day.
+ - Sources: Dairy, fortified plant milks, almonds, broccoli.
+
+4. Antioxidants (Vitamins C and E)
+ - Exercise generates reactive oxygen species (ROS); antioxidants neutralize these.
+ - A diet rich in colorful vegetables and fruits is sufficient for most players.
+ - High-dose antioxidant supplementation is NOT recommended — may blunt training adaptations.
+
+HYDRATION AND ELECTROLYTES
+- Sodium: 500–1,500 mg per liter of sweat. Replace with sports drinks or salty foods post-match.
+- Potassium: 2,000–3,500 mg/day from diet (bananas, potatoes, orange juice).
+
+PRACTICAL MEAL PLANNING
+- Breakfast (training day): Oatmeal (80 g dry), banana, 2 eggs, 250 mL orange juice.
+- Pre-training snack (2 hrs prior): Toast (2 slices) with honey, 250 mL sports drink.
+- Post-training recovery: 250 g cooked chicken breast, 200 g white rice, steamed broccoli, 500 mL water.
+- Evening meal: Salmon (150 g), sweet potato (200 g), mixed salad with olive oil.
+
+KEY TAKEAWAYS
+- Match-day carbohydrates: 7–10 g/kg. Rest-day: 3–5 g/kg.
+- Monitor iron and vitamin D levels annually, especially for female players.
+- Eat a diet rich in colorful vegetables for antioxidant protection.
+- Maintain energy availability above 45 kcal/kg FFM/day to avoid hormonal and health consequences.

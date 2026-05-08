@@ -1,0 +1,11 @@
+question_id,sport,category,question,experience_level,body_weight_kg,training_days
+Q01,Soccer,Training,What are effective interval training methods for a beginner soccer player?,Beginner,70,3
+Q02,Soccer,Nutrition,How many carbohydrates should a 70 kg soccer player consume on a match day?,Intermediate,70,4
+Q03,Tennis,Training,What are the key fitness components needed for intermediate tennis players?,Intermediate,68,4
+Q04,Tennis,Recovery,What recovery strategies are recommended after a 2-hour tennis match?,Intermediate,68,4
+Q05,Basketball,Training,What strength and conditioning drills are best for beginner basketball players?,Beginner,80,3
+Q06,Basketball,Nutrition,What hydration strategies should a basketball player follow during a game?,Intermediate,80,4
+Q07,Strength Training,Training,What is a beginner-friendly progressive overload schedule for strength training?,Beginner,75,3
+Q08,Strength Training,Nutrition,How much protein does a 75 kg strength training athlete need per day?,Intermediate,75,4
+Q09,Soccer,Recovery,What are evidence-based sleep and recovery strategies for soccer players?,Intermediate,70,4
+Q10,Strength Training,Recovery,What are the best rest and recovery practices between strength training sessions?,Beginner,75,3

@@ -1,0 +1,51 @@
+SOURCE: NBA Performance Lab - Advanced Load Management and Position-Specific Conditioning (2023)
+ORGANIZATION: NBA Performance Lab / NBA G League Performance Science
+CATEGORY: Basketball - Training
+------------------------------------------------------------
+
+OVERVIEW
+The NBA Performance Lab, established in 2016, aggregates biometric and performance data from NBA and G League players. Their published guidelines have been adapted here for club-level and recreational basketball players. The central insight: basketball performance is determined by power, speed, agility, and conditioning — in that priority order.
+
+POSITION-SPECIFIC PHYSICAL DEMANDS
+1. Guards (Point Guard / Shooting Guard)
+ - Highest total distance covered: 5–6 km per 40 minutes.
+ - Primary demands: Change-of-direction speed, lateral quickness, endurance to sustain 30–35 minutes of high-intensity play.
+ - Training emphasis: Lateral agility drills, anaerobic intervals, upper body quickness for ball-handling under fatigue.
+
+2. Small Forwards / Wings
+ - Mixed demands: Require combination of guard-level speed and big-man strength.
+ - Primary demands: First-step quickness, cutting ability, one-on-one defensive capability.
+ - Training emphasis: Plyometrics, straight-line speed, single-leg strength.
+
+3. Power Forwards / Centers
+ - Highest physical contact and strength demands.
+ - Primary demands: Lower body strength for rebounding, core stability for post play, vertical jump for shot-blocking.
+ - Training emphasis: Heavy compound lower body work, plyometrics, core anti-rotation.
+
+LOAD MANAGEMENT PRINCIPLES (NBA-Adapted for Club Level)
+- Acute workload monitoring: Track minutes played + training minutes. Keep weekly spike < 20% over the rolling 4-week average.
+- Rest during back-to-back games: If you play on Friday, Saturday should be active recovery only — no high-intensity conditioning.
+- Manage the cumulative fatigue of a season: Plan a 1-week deload every 6–8 weeks during the competitive season.
+
+BASKETBALL-SPECIFIC CONDITIONING METHODS
+1. 5-Lane Drill (NBA-Standard)
+ - Player starts at center court, sprints to near baseline, backpedals to center, sprints to far baseline, backpedals to center. Simulates defensive transitions.
+ - Complete 5–8 repetitions with 30 seconds rest between reps.
+
+2. Mikan Drill (Conditioning Variant)
+ - Continuous layups on alternating sides for 60 seconds. Develops close-range finishing and cardiovascular conditioning simultaneously.
+
+3. Ball-Handling Agility Circuits
+ - Combine ball handling with cone weaving drills. Trains the motor cortex to make skilled decisions under physical fatigue.
+
+VERTICAL JUMP DEVELOPMENT (NBA Research)
+- Minimum 8 weeks of plyometric training required for measurable improvements.
+- Most effective exercises: Depth jumps (drop from 30–50 cm box), single-leg bounds, trap bar jump squats.
+- Avoid high-volume plyometrics within 48 hours of a game.
+- NBA data shows countermovement jump (CMJ) height is the best predictor of fatigue — a >5% CMJ drop signals incomplete recovery.
+
+KEY TAKEAWAYS
+- Position-specific training maximizes the relevance of conditioning work.
+- Track cumulative load — weekly spike > 20% predicts injury.
+- CMJ height > 5% decline = do not train at high intensity; recovery needed.
+- Vertical jump improvements require at least 8 weeks of consistent plyometric training.

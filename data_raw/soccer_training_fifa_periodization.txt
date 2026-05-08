@@ -1,0 +1,50 @@
+SOURCE: FIFA Football Fitness - Periodization and Load Management for Players (2023)
+ORGANIZATION: FIFA - Fédération Internationale de Football Association
+CATEGORY: Soccer - Training
+------------------------------------------------------------
+
+OVERVIEW
+Load management is the systematic control of training stress across a season to maximize performance and minimize injury. FIFA's Football Fitness department outlines specific periodization frameworks for amateur and semi-professional players.
+
+ANNUAL PERIODIZATION FRAMEWORK
+1. Preparation Phase (Pre-Season, 6–8 weeks)
+   - Weeks 1–2: Aerobic base. Low-intensity continuous running at 60–70% HRmax. Volume is high, intensity is low.
+   - Weeks 3–4: Introduce higher-intensity intervals. SSG (Small-Sided Games) frequency increases.
+   - Weeks 5–6: Sport-specific conditioning. Tactical integration. Maintain aerobic gains while introducing anaerobic capacity work.
+   - Weeks 7–8: Taper. Reduce volume by 20–30%, maintain intensity. Peak readiness for season start.
+
+2. Competition Phase (In-Season)
+   - Objective: Maintain fitness while managing match fatigue.
+   - Training volume drops 30–40% compared to pre-season.
+   - Match-day minus 2 (MD-2): High-intensity activation session (45 min).
+   - Match-day minus 1 (MD-1): Low-intensity technical session (30 min). No high-intensity work.
+   - Match-day plus 1 (MD+1): Active recovery only. No structured training.
+   - Match-day plus 2 (MD+2): Moderate training resumes.
+
+3. Transition Phase (Post-Season, 3–4 weeks)
+   - Active rest. Cross-training encouraged (swimming, cycling, yoga).
+   - No structured soccer training.
+   - Psychological recovery is as important as physical.
+
+LOAD MONITORING TOOLS
+- Session RPE (sRPE): Rate of Perceived Exertion multiplied by session duration. Target load range: 200–400 AU for training, 400–800 AU for competitive matches.
+- Heart Rate Monitoring: Training zones defined by %HRmax. Beginners should spend majority of time in Zone 2 (65–75% HRmax).
+- Wellness questionnaires: Monitor fatigue, sleep, mood. Decline in wellness scores predicts injury and illness.
+
+ACUTE:CHRONIC WORKLOAD RATIO (ACWR)
+- The ACWR compares the last week's training load to the rolling 4-week average.
+- Safe zone: 0.8–1.3 ACWR.
+- Danger zone: ACWR > 1.5 significantly increases soft tissue injury risk.
+- Danger zone: ACWR < 0.8 indicates undertraining and detraining.
+
+BEGINNER PLAYER LOAD GUIDELINES
+- Start with 2 sessions/week, each under 60 minutes.
+- Increase weekly load by no more than 10% per week.
+- Never follow a high-load week with another high-load week.
+- Prioritize skill development over fitness at the beginner stage.
+
+KEY TAKEAWAYS
+- Periodize training into preparation, competition, and transition phases.
+- Use MD-1/MD-2/MD+1/MD+2 framework to manage fatigue around matches.
+- Keep ACWR between 0.8 and 1.3 to stay in the safe training zone.
+- Monitor wellness daily; declining scores mean reduce load, not push through.

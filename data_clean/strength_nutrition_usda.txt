@@ -1,0 +1,61 @@
+SOURCE: USDA Dietary Guidelines for Athletes - Protein Quality, Timing, and Whole-Food Nutrition (2023)
+ORGANIZATION: United States Department of Agriculture (USDA) / Academy of Nutrition and Dietetics
+CATEGORY: Strength Training - Nutrition
+------------------------------------------------------------
+
+OVERVIEW
+The USDA Dietary Guidelines for Americans and the Academy of Nutrition and Dietetics (AND) provide the gold-standard framework for athlete nutrition in the United States. This document focuses on protein quality assessment, meal timing for strength athletes, and the superiority of whole-food strategies over supplement dependency.
+
+PROTEIN DIGESTIBILITY-CORRECTED AMINO ACID SCORE (PDCAAS) AND DIAAS
+- Not all proteins are equal. The Digestible Indispensable Amino Acid Score (DIAAS), adopted by the FAO/WHO, is the most accurate measure of protein quality.
+- DIAAS scores (scale 0–1+):
+ - Whey protein concentrate: 1.09 (highest quality)
+ - Eggs: 1.13
+ - Milk: 1.14
+ - Beef: 0.92
+ - Chicken breast: 0.92
+ - Soy protein isolate: 0.90
+ - Pea protein: 0.82
+ - Black beans: 0.75
+ - Wheat: 0.45
+- Implication for plant-based athletes: Combine complementary plant proteins (peas + rice, beans + corn) to achieve a complete amino acid profile.
+
+LEUCINE THRESHOLD AND MUSCLE PROTEIN SYNTHESIS
+- Leucine is the primary amino acid that triggers muscle protein synthesis (MPS).
+- Threshold: ~0.03–0.05 g leucine per kg body weight per meal is required to fully stimulate MPS.
+- For a 75 kg athlete: 2.25–3.75 g leucine per meal.
+- Leucine content of common foods:
+ - 30 g whey protein: ~2.7 g leucine ✓
+ - 200 g chicken breast: ~3.8 g leucine ✓
+ - 3 large eggs: ~1.8 g leucine (borderline)
+ - 200 g black beans: ~1.0 g leucine (insufficient alone)
+
+MEAL TIMING SCIENCE
+- Pre-workout (1–2 hours before):
+ - Carbohydrates: 0.5–1.0 g/kg (moderate glycemic index) for energy.
+ - Protein: 20–25 g to prime anabolic environment.
+ - Fat: Low (< 15 g) to avoid GI discomfort.
+- Post-workout (within 2 hours):
+ - The "anabolic window" is real but wider than once thought.
+ - Protein: 0.3–0.4 g/kg (20–40 g for most athletes).
+ - Carbohydrates: 0.5–1.0 g/kg to replenish glycogen and support insulin response.
+- Pre-sleep nutrition:
+ - 30–40 g of slow-digesting casein protein (cottage cheese, casein powder) before sleep increases overnight MPS by 25%.
+
+WHOLE FOOD STRATEGIES
+The AND emphasizes food-first approaches for most athletes:
+- Greek yogurt (175 g): 17 g protein, 150 kcal, calcium, probiotics. Excellent recovery snack.
+- Cottage cheese (200 g): 25 g casein protein. Ideal pre-sleep protein.
+- Eggs (3 whole): 18 g protein, healthy fats, choline (brain function).
+- Salmon (150 g): 30 g protein + omega-3 fatty acids (1.5–2 g EPA/DHA). Anti-inflammatory.
+
+CALORIC NEEDS FOR STRENGTH TRAINING
+- To build muscle (caloric surplus): Add 200–500 kcal/day above maintenance.
+- To maintain muscle while losing fat (recomposition): Eat at maintenance with high protein (2.0–2.4 g/kg).
+- Estimate maintenance calories: Body weight (kg) × 33–38 (for active individuals training 3–5x/week).
+
+KEY TAKEAWAYS
+- Prioritize high-DIAAS protein sources (eggs, dairy, meat, whey) for maximal MPS.
+- Hit 0.03 g leucine/kg per meal to fully trigger muscle protein synthesis.
+- Eat protein within 2 hours post-workout; pre-sleep casein is a bonus.
+- A 200–500 kcal surplus is sufficient to build muscle without excessive fat gain.

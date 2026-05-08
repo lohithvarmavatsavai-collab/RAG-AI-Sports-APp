@@ -1,0 +1,30 @@
+SOURCE: Rest Periods and Deload Strategies in Resistance Training (2022)
+ORGANIZATION: Journal of Strength and Conditioning Research (JSCR)
+CATEGORY: Strength Training - Recovery
+------------------------------------------------------------
+
+OVERVIEW
+Continuous, high-intensity resistance training without planned periods of reduced volume or intensity leads to overtraining, injury, and stalled progress. The JSCR reviews the efficacy of deload weeks and rest interval management.
+
+DELOAD WEEKS
+- A deload is a planned period of reduced training stress, typically lasting one week.
+- Purpose: To allow accumulated fatigue to dissipate while maintaining fitness, leading to a "supercompensation" effect where strength levels jump up.
+- Frequency: Most trainees benefit from a deload week every 4 to 8 weeks, depending on training intensity and individual recovery capacity.
+- How to Deload:
+  1. Volume reduction: Cut the number of sets and reps in half, keep weight the same.
+  2. Intensity reduction: Keep sets and reps the same, but reduce weight by 40-50%.
+  3. Both: A slight reduction in both volume and intensity.
+
+REST INTERVALS BETWEEN SETS
+- The time spent resting between sets directly impacts the training outcome.
+- Hypertrophy (Muscle Growth): 60-90 seconds rest. This maximizes metabolic stress and hormonal response.
+- Maximal Strength: 3-5 minutes rest. This allows for near-complete recovery of the ATP-PC system, enabling maximal force production in the subsequent set.
+- Beginners should lean towards 90-120 seconds to ensure proper form is maintained throughout the workout.
+
+ACTIVE RECOVERY FOR LIFTERS
+- On non-lifting days, engaging in light, low-impact aerobic work (e.g., brisk walking, easy cycling) can aid recovery by promoting blood flow and nutrient delivery to recovering muscles without inducing further muscle damage.
+
+KEY TAKEAWAYS
+- Implement a deload week every 4-8 weeks to prevent overtraining.
+- Rest 3-5 minutes between heavy strength sets, and 60-90 seconds for hypertrophy sets.
+- Use light walking or cycling on rest days to promote blood flow.

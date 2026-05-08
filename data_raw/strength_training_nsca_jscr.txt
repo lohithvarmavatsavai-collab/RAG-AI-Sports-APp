@@ -1,0 +1,54 @@
+SOURCE: NSCA Journal of Strength and Conditioning Research - Evidence-Based Programming for Beginner and Intermediate Lifters (2023)
+ORGANIZATION: National Strength and Conditioning Association (NSCA) / Journal of Strength and Conditioning Research
+CATEGORY: Strength Training - Training
+------------------------------------------------------------
+
+OVERVIEW
+The NSCA publishes the most comprehensive evidence base for resistance training program design. This document synthesizes recent JSCR meta-analyses and position papers on optimal training frequency, volume, intensity, and exercise selection for beginner and intermediate lifters.
+
+WHAT THE RESEARCH SAYS ABOUT BEGINNER VS. INTERMEDIATE TRAINING
+- Beginners (< 6 months consistent training): Any rep range (5–30 reps), any frequency (2–5 days/week), any resistance (60–85% 1RM) produces significant strength gains. Technique is the limiting factor, not programming.
+- Intermediate (6 months – 2 years): Gains slow, requiring more specific stimulus. Must progressively overload and vary training stimulus.
+- Advanced (> 2 years): Require periodized, highly individualized programs for continued progress.
+
+OPTIMAL TRAINING FREQUENCY (JSCR Meta-Analysis, 2022)
+- Muscle group frequency: Training each muscle group 2x/week produces significantly greater hypertrophy than 1x/week.
+- Full-body workouts 3x/week (e.g., Mon/Wed/Fri) consistently outperform split routines for beginner and intermediate lifters on most hypertrophy and strength metrics.
+- 4–5 days/week of training is appropriate for intermediate lifters using upper/lower splits.
+
+VOLUME LANDMARKS (Evidence-Based)
+- Minimum Effective Volume (MEV): ~4–6 sets per muscle group per week. Below this produces no meaningful growth.
+- Maximum Adaptive Volume (MAV): ~12–20 sets per muscle group per week. This is the hypertrophy sweet spot.
+- Maximum Recoverable Volume (MRV): > 20–25 sets. Begins to exceed recovery capacity and cause overtraining.
+- Beginners should start at MEV and add 1–2 sets per week until approaching MAV.
+
+INTENSITY AND PROGRESSION
+- Strength emphasis: 3–6 reps at 80–90% 1RM.
+- Hypertrophy emphasis: 8–15 reps at 65–80% 1RM.
+- Muscular endurance: 15–30 reps at 40–65% 1RM.
+- Linear progression (add weight each session) works effectively for beginners for the first 3–6 months.
+- When linear progression stalls, switch to wave loading (e.g., Week 1: 3x8, Week 2: 3x10, Week 3: 3x12, Week 4: 3x8 heavier).
+
+EXERCISE SELECTION PRIORITIES
+- Tier 1 (Must-have): Squat, hip hinge (deadlift/RDL), vertical push (overhead press), horizontal push (bench), vertical pull (pull-up/lat pulldown), horizontal pull (row).
+- Tier 2 (Important): Lunges, hip thrust, dips, face pulls, carries.
+- Tier 3 (Optional): Isolation exercises (curls, lateral raises, leg extension). Add after Tier 1 and 2 are covered.
+
+SAMPLE BEGINNER PROGRAM (3 days/week, full-body)
+Day A:
+- Barbell Back Squat: 3x8
+- Barbell Row: 3x8
+- Barbell Bench Press: 3x8
+- Plank: 3x30 sec
+
+Day B:
+- Romanian Deadlift: 3x8
+- Overhead Press: 3x8
+- Lat Pulldown: 3x10
+- Farmer's Carry: 3x20 m
+
+KEY TAKEAWAYS
+- Train each muscle group 2x/week for maximum hypertrophy.
+- Start with 4–6 sets per muscle group per week and build toward 12–20.
+- Master Tier 1 movements before adding isolation exercises.
+- Linear progression (add weight each session) is the simplest effective strategy for beginners.
