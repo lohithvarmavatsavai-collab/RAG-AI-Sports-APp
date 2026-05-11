@@ -1,162 +1,92 @@
-# ⚡ AI Sports Performance Assistant
-### Retrieval-Augmented Generation for Evidence-Based Athletic Guidance
-**San Jose State University | Graduate Final Project | Spring 2026**
+# RAG-Based AI Sports Performance Assistant
 
-> 🖥️ **Local App URL:** `http://localhost:8502`
-> Run: `python3 -m streamlit run app.py --server.port 8502`
+This is my final project for my graduate course at San Jose State University (Spring 2026). I built a sports performance assistant that uses Retrieval-Augmented Generation to give athletes better, more evidence-backed advice than a regular chatbot would.
 
----
+The basic idea: instead of letting the AI make up answers from memory, I force it to read actual sports science documents first (from FIFA, ACSM, ISSN, etc.) and then generate answers based on that evidence. I also built a comparison mode so you can see the difference between a RAG answer and a plain LLM answer side by side.
 
-## 📌 Project Overview
-This project builds a **Retrieval-Augmented Generation (RAG)** system that provides sport-specific training, nutrition, and recovery guidance for beginner-to-intermediate athletes. It retrieves evidence from a curated corpus of **36 trusted source documents** (FIFA, ACSM, ISSN, NSCA, NIH, ITF, FIBA, and more) before generating structured, grounded answers — and compares them against a baseline LLM-only approach in a side-by-side interface.
+## What it does
 
-**Supported Sports:** Soccer · Tennis · Basketball · Strength Training
-**Guidance Categories:** Training · Nutrition · Recovery
-**LLM Backend:** Google Gemini 2.5 Flash
-**Embedding Model:** `all-MiniLM-L6-v2` (SentenceTransformers)
-**Vector Store:** FAISS `IndexFlatL2`
+- Covers 4 sports: Soccer, Tennis, Basketball, Strength Training
+- 3 guidance categories: Training, Nutrition, Recovery
+- You fill in your athlete profile (sport, goal, experience level, weight, age, training days/week)
+- It retrieves relevant chunks from 36 curated source documents using FAISS
+- Then Gemini 2.5 Flash generates a structured answer grounded in that evidence
+- There's also a readiness score based on 6 factors (experience, training load, goal type, weight, sport intensity, age)
 
----
+## How to run it locally
 
-## 🗂️ Project Structure
-```
-sports_rag_project/
-├── app.py                    # Streamlit web application (main entry point)
-├── retrieve.py               # FAISS semantic retrieval module
-├── generate.py               # RAG + baseline LLM generation module
-├── clean_data.py             # Text cleaning pipeline
-├── chunk_data.py             # 150-word sliding window chunking
-├── embed_and_index.py        # Embedding + FAISS index builder
-├── metadata.csv              # 36 source metadata records
-├── chunks.csv                # 123 text chunks with full metadata
-├── evaluation_questions.csv  # 10 benchmark evaluation questions
-├── evaluation_results.csv    # RAG vs Baseline comparison scores
-├── model_card.md             # Model card (system documentation)
-├── model_card.html           # Model card (HTML version)
-├── requirements.txt          # Python dependencies
-├── .env.example              # API key template (safe to share)
-├── data_raw/                 # Original source text files (36 docs)
-├── data_clean/               # Cleaned versions of source files
-├── faiss_index/              # FAISS vector index
-├── results/                  # Output logs / evaluation JSON
-├── screenshots/              # App screenshots
-├── report/                   # Final project report (Markdown)
-└── presentation/             # Slides / presentation materials
-```
+You'll need Python 3.9+ and a Google Gemini API key (free from https://aistudio.google.com/app/apikey).
 
----
-
-## ⚙️ Setup Instructions
-
-### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-sports-rag.git
-cd ai-sports-rag
-```
+# install dependencies
+pip install -r requirements.txt
 
-### Step 2 — Install Dependencies
-```bash
-pip3 install -r requirements.txt
-```
-
-### Step 3 — Add Your Google Gemini API Key
-```bash
+# create your .env file
 cp .env.example .env
-# Open .env and add your key:
-# GOOGLE_API_KEY=your_key_here
-```
-Get a free key at: https://aistudio.google.com/app/apikey
+# then open .env and paste your GOOGLE_API_KEY
 
-### Step 4 — The Data Pipeline (Pre-built — Skip if files exist)
-The FAISS index and chunks are already included. Only run these if you need to rebuild from scratch:
-```bash
-python3 clean_data.py        # Clean raw source files
-python3 chunk_data.py        # Chunk into 150-word windows
-python3 embed_and_index.py   # Build FAISS vector index
-```
-
-### Step 5 — Launch the App
-```bash
+# run the app
 python3 -m streamlit run app.py --server.port 8502
 ```
-Open in browser: **http://localhost:8502**
 
----
+App opens at http://localhost:8502
 
-## 🔬 How the RAG Pipeline Works
+## Running on Google Colab
+
+If you don't want to set things up locally, there's a Colab notebook included (`AI_Sports_RAG_Pipeline.ipynb`). It walks through the full pipeline — retrieval, generation, evaluation — without needing to install anything on your machine.
+
+You'll need to upload a few data files when Colab prompts you: `chunks.csv`, `metadata.csv`, `sports_rag.index`, and `evaluation_questions.csv`.
+
+## Project structure
 
 ```
-[User: Sport + Goal + Category + Experience + Weight + Age + Question]
-                          │
-                          ▼
-    [Query Embedding — all-MiniLM-L6-v2 → 384-dim vector]
-                          │
-                          ▼
-    [Pre-filter on Sport × Category from FAISS candidate pool]
-                          │
-                          ▼
-    [FAISS IndexFlatL2 → Top-K nearest chunks by L2 distance]
-                          │
-                          ▼
-    [Prompt Assembly: Profile Directives + Chunks + Structure]
-                          │
-                          ▼
-    [Gemini 2.5 Flash → Real-time streaming response]
-                          │
-                          ▼
-    [Streamlit: Side-by-side RAG vs Baseline comparison display]
+├── app.py                    # main Streamlit app
+├── retrieve.py               # FAISS retrieval logic
+├── generate.py               # Gemini prompt construction + generation
+├── clean_data.py             # text cleaning script
+├── chunk_data.py             # splits documents into 150-word chunks
+├── embed_and_index.py        # builds the FAISS vector index
+├── chunks.csv                # the 123 text chunks with metadata
+├── metadata.csv              # info about all 36 source documents
+├── faiss_index/              # the FAISS index file
+├── data_raw/                 # original source texts
+├── data_clean/               # cleaned versions
+├── evaluation_questions.csv  # 10 benchmark questions I used for testing
+├── evaluation_results.csv    # scores from my RAG vs baseline comparison
+├── model_card.md             # model documentation
+├── report/                   # my final written report
+├── AI_Sports_RAG_Pipeline.ipynb  # Colab notebook version
+└── requirements.txt
 ```
 
----
+## How the RAG pipeline works
 
-## 📊 Evaluation Results Summary
+1. User submits a question along with their athlete profile
+2. The question gets embedded using `all-MiniLM-L6-v2` (sentence transformer, 384 dimensions)
+3. FAISS searches for the most similar chunks, filtered by sport and category
+4. Those chunks get injected into a structured prompt alongside the user's profile
+5. Gemini 2.5 Flash generates the answer, constrained to follow a specific section format
+6. The baseline mode runs the same prompt but without any retrieved chunks, so you can compare
 
-| Criterion | RAG (avg/5) | Baseline (avg/5) | RAG Advantage |
-|---|---|---|---|
-| Relevance | 4.5 | 3.8 | +0.7 |
-| Groundedness | 4.6 | 2.1 | **+2.5** |
-| Specificity | 4.3 | 3.2 | +1.1 |
-| Structure | 4.7 | 4.5 | +0.2 |
-| Safety | 4.9 | 4.7 | +0.2 |
-| **Overall** | **4.6** | **3.7** | **+0.9** |
+## Sources I used
 
-Full per-question scores: `evaluation_results.csv`
+I curated 36 documents from organizations like FIFA, ACSM, ISSN, NSCA, NIH, ITF, FIBA, and others. Full list is in `metadata.csv`. I specifically picked sources that had concrete numerical guidelines (like protein g/kg recommendations or heart rate zone targets) since those are the hardest things for an LLM to get right without retrieval.
 
----
+## Evaluation
 
-## 📚 Trusted Sources Used
-| Organization | Type | Sports |
-|---|---|---|
-| FIFA / UEFA / F-MARC | Governing Bodies | Soccer |
-| ITF / USTA | Governing Bodies | Tennis |
-| FIBA / NBA Academy | Governing Bodies | Basketball |
-| NSCA / ACSM | Professional Associations | Strength Training |
-| ISSN | Position Stands | All Sports |
-| NIH Office of Dietary Supplements | Government Agency | Strength Training |
-| GSSI (Gatorade Sports Science Institute) | Applied Research | Soccer / Basketball |
-| BJSM / JSS / JSCR / JISSN | Peer-Reviewed Journals | All Sports |
+I tested 10 questions across all 4 sports and scored both the RAG and baseline answers on relevance, groundedness, specificity, structure, and safety (each on a 1-5 scale). The biggest gap was in groundedness — the RAG system averaged 4.6 vs 2.1 for baseline, which makes sense because the baseline has no source material to cite.
 
----
+## Limitations
 
-## 🧠 Key Features
-- **RAG vs Baseline Comparison** — Side-by-side display isolates the impact of retrieval
-- **6-Factor Readiness Score** — Physiological readiness gauge (Experience, Load, Goal, Weight, Sport Intensity, Age)
-- **Profile-Aware Prompting** — Three hard directives lock generation to sport + goal + category
-- **Graceful Error Handling** — 503/429 API errors display friendly messages, never crash the app
-- **Real-time Streaming** — `st.write_stream()` for live response display
+- This doesn't give medical advice — it says so explicitly in every response
+- The knowledge base is intentionally small (36 docs). A production system would need way more
+- I only tested with one evaluator (me), so there's potential scoring bias
+- The Streamlit app runs locally only unless you deploy it somewhere
 
----
+## Built with
 
-## ⚠️ Limitations & Ethical Scope
-- Does **not** diagnose injuries or prescribe medical treatment
-- Does **not** recommend supplements or provide medical nutrition therapy
-- Sources are curated summaries — always verify recommendations with primary literature
-- LLM outputs may contain errors; human expert review is recommended
-
----
-
-## 👨‍🎓 Academic Context
-- **Institution:** San Jose State University
-- **Project Type:** Graduate Final Project — Spring 2026
-- **Methodology:** RAG · SentenceTransformers · FAISS · Google Gemini 2.5 Flash · Streamlit
-- **Full Report:** `report/project_report_final.md`
+- Python, Streamlit
+- Google Gemini 2.5 Flash
+- FAISS (Facebook AI Similarity Search)
+- SentenceTransformers (`all-MiniLM-L6-v2`)
+- Pandas, NumPy, Matplotlib
